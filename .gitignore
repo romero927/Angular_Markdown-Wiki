@@ -1,0 +1,103 @@
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/build
+
+# Dependencies
+/node_modules
+
+# Angular build artifacts
+/.angular
+
+# Environment files
+/src/environments/environment*.ts
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+.tmp/
+.temp/
+
+# Coverage directory used by tools like istanbul
+/coverage
+
+# Compiled JavaScript files
+*.js
+*.js.map
+
+# Compiled CSS files
+*.css
+*.css.map
+
+# Sass cache
+.sass-cache/
+
+# Miscellaneous
+/.eslintcache
+/.npm
+/.cache
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+ehthumbs.db
+Thumbs.db
+
+# Docker files
+docker-compose.yml
+docker-compose.override.yml
+
+# Git hooks
+.git/hooks/
+
+# Swagger codegen files
+/api/
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Generated documentation
+/docs/
+
+# Nginx config (if applicable)
+nginx.conf
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Optional npm cache directory
+.npm
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Angular cache
+.angular/cache
+
+# Angular Ivy partial compilation output
+**/*.ngfactory.ts
+**/*.ngstyle.ts
