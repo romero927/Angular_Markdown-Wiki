@@ -1,7 +1,3 @@
-Certainly! Here is the `README.md` file in actual markdown format:
-
----
-
 # Angular Wiki SPA
 
 ## Overview
