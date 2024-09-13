@@ -1,0 +1,20 @@
+[
+    { "name": "", "route": "" },
+    { "name": "Home", "route": "/" },
+    { "name": "About", "route": "/page/about" },
+    { "name": "Contact", "route": "/page/contact" },
+    { "name": "CPP JSON to Model Generator", "route": "/page/CPP_JSON-to-Model-Generator" },
+    { "name": "CSharp Reddit Listener", "route": "/page/CSharp_RedditListener" },
+    { "name": "FizzBuzz Library", "route": "/page/FizzBuzz-Library" },
+    { "name": "Flutter Generator Utility", "route": "/page/Flutter_Generator-Utility" },
+    { "name": "Go Luhn Verifier", "route": "/page/Go_LuhnVerifier" },
+    { "name": "Java Sudoku", "route": "/page/Java-Sudoku" },
+    { "name": "NextJS Algo and Data Struct Visualizer", "route": "/page/NextJS-AlgoAndDataStructVisualizer" },
+    { "name": "OpenCV Face Object Detect", "route": "/page/OpenCV_Face-Object-Detect" },
+    { "name": "Phoenix Chat Room", "route": "/page/Phoenix_Chat-Room" },
+    { "name": "Python Wurdle", "route": "/page/Python_Wurdle" },
+    { "name": "Resume", "route": "/page/Resume" },
+    { "name": "Rust Simple Blockchain", "route": "/page/rust-simple_blockchain" },
+    { "name": "Scala Game of Life", "route": "/page/Scala_Game-of-Life" }
+  ]
+  
