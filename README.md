@@ -1,12 +1,10 @@
-Certainly! Here is the `README.md` file in actual markdown format:
-
----
-
 # Angular Wiki SPA
 
 ## Overview
 
 This Angular application serves as a simple wiki that displays content from offline markdown files. It features a modern and responsive UI using Angular Material components, ensuring an excellent user experience on both desktop and mobile devices.
+
+Can be tested on Fly.io at: [https://kgromero-angular-wiki.fly.dev/](https://kgromero-angular-wiki.fly.dev/)
 
 ## Features
 
