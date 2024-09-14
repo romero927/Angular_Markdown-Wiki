@@ -1,4 +1,14 @@
 <mat-card class="markdown-card">
-    <markdown [src]="markdownPath"></markdown>
-  </mat-card>
-  
+  <!-- Toggle button to switch between raw and rendered views -->
+  <button mat-raised-button color="primary" (click)="toggleView()">
+    {{ showRaw ? 'Show Rendered Markdown' : 'Show Raw Markdown' }}
+  </button>
+
+  <!-- Display rendered markdown when showRaw is false -->
+  <markdown *ngIf="!showRaw" [src]="markdownPath"></markdown>
+
+  <!-- Display raw markdown with syntax highlighting when showRaw is true -->
+  <pre *ngIf="showRaw">
+    <code [highlight]="rawMarkdown" [language]="'markdown'">{{ rawMarkdown }}</code>
+  </pre>
+</mat-card> 
